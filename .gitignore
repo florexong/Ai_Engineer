@@ -1,0 +1,21 @@
+# Environment & Virtual Env
+venv/
+.env
+.python-version
+
+# Vector Database (Generated data)
+secure_rag/chroma_db/
+
+# Project Metadata & Personal Files
+GEMINI.md
+DIARY.md
+.gemini/
+
+# OS/System files
+.DS_Store
+__pycache__/
+*.pyc
+
+# IDE Settings
+.vscode/
+.idea/
